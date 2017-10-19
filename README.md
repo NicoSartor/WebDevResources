@@ -5,6 +5,11 @@
   * [Smashing Magazine](https://www.smashingmagazine.com)
   * [Hackernoon](https://hackernoon.com/)
   * [jQuery By Example](http://www.jquerybyexample.net/)
+  
+## Misc:
+ *[whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
+ * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) (Chrome extension that makes JSON files readable)
+ 
 
   
 
