@@ -31,6 +31,7 @@
    * [Colorrrs](https://www.webpagefx.com/web-design/random-color-picker/#5DF1B8) (Random Color Generator)
    * [SectionSeparators](https://tympanus.net/Development/SectionSeparators/) (Inspiration for CSS section dividers)
    * [Ken Burns Effect](https://www.kirupa.com/html5/ken_burns_effect_css.htm) (Pan and zoom into static image)
+   * [Gradient World](https://gradient.world/) (CSS gradients from photographs)
    
    
    
