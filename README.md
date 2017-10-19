@@ -96,6 +96,7 @@
   * [Select2](https://select2.org/) (Another customizable select box library)
   * [iziToast](http://izitoast.marcelodolce.com/) (Create elegant notifications)
   * [iziModal](http://izimodal.marcelodolce.com/) (Create elegant popups)
+  * [p5.js](https://p5js.org/) (Drawing library)
   
 
 ## Interesting Projects
