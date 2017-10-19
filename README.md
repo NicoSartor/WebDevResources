@@ -1,4 +1,4 @@
-# Library Of Web Development Resources (Colaborate!)
+# Library Of Web Development Resources
 
 ## Explore:
   * [Blocks](https://bl.ocks.org/)
