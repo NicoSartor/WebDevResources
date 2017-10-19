@@ -115,6 +115,7 @@
   * [Particle Love by Edan Kwan](http://particle-love.com/)
   * [I Remember](http://i-remember.fr/en/)
   * [Images of Change](https://climate.nasa.gov/images-of-change) (They used TwentyTwenty js library) 
+  * [Windy](https://www.windy.com/?34.269,-118.329,5) (Check wind and weather patterns)
 
    
 
