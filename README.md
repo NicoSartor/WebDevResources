@@ -12,9 +12,6 @@
  * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
  * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) (Chrome extension that makes JSON files readable)
  
-
-  
-
 ## CSS:
   ### Main Websites For Research:
    * [CSS Tricks](https://css-tricks.com/)
@@ -32,8 +29,6 @@
    * [SectionSeparators](https://tympanus.net/Development/SectionSeparators/) (Inspiration for CSS section dividers)
    * [Ken Burns Effect](https://www.kirupa.com/html5/ken_burns_effect_css.htm) (Pan and zoom into static image)
    * [Gradient World](https://gradient.world/) (CSS gradients from photographs)
-   
-   
    
   ### Libraries/Frameworks:
    * [Animate.css](https://daneden.github.io/animate.css/) (Add animations with ease)
@@ -119,7 +114,10 @@
   * [Street Change](http://streetchange.media.mit.edu/)
   * [KeyBright](http://www.keybright.net/)
   * [QuickDrawWithGoogle](https://quickdraw.withgoogle.com/)
-
+  * [Touch Pianist](http://touchpianist.com/)
+  * [Stars](https://experiments.withgoogle.com/chrome/100000-stars) (Click on launch experiment)
+  * [Map In Seconds](http://mapinseconds.com/)
+  
    
 
     
