@@ -16,11 +16,36 @@
   ### Youtube Channels:
    * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
    
-  ### Miscellaneous CSS Resources:
+  ### CSS Design Resources:
    * [Article: High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) 
+   * [Flat Ui Colors](https://flatuicolors.com/) (Choose main colors)
+   * [Paletton](http://paletton.com/) (Create color schemes based on color theory)
+   * [MaterialUI](https://www.materialui.co/) (Color and Material ideas)
+   * [Colorrrs](https://www.webpagefx.com/web-design/random-color-picker/#5DF1B8) (Random Color Generator)
+   * [SectionSeparators](https://tympanus.net/Development/SectionSeparators/) (Inspiration for CSS section dividers)
+   * [Ken Burns Effect](https://www.kirupa.com/html5/ken_burns_effect_css.htm) (Pan and zoom into static image)
    
-  ### Libraries:
-   * []()
+   
+   
+  ### Libraries/Frameworks:
+   * [Animate.css](https://daneden.github.io/animate.css/) (Add animations with ease)
+   * [Material Design lite](https://getmdl.io/index.html) (Library of material design elements and templates)
+   * [Topcoat](http://topcoat.io/) (Framework for clean and fast apps)
+   * [DynCSS](http://www.vittoriozaccaria.net/dyn-css/) (Add functions to CSS and make it dynamic)
+   * [Magic Animations](https://www.minimamente.com/example/magic_animations/) (Library of animations)
+   * [CSSpin](https://webkul.github.io/csspin/) (CSS Spinners and loaders)
+   * [Feather](https://feathericons.com/) (Open source icons)
+   * [ionicons](http://ionicons.com/) (More open source icons!)
+   * [Font Awesome](http://fontawesome.io/) (Even more open source icons!!)
+   * [Font generator](http://brandmark.io/font-generator/) (Combine fonts)
+   * [On/Off Flip Switch](https://proto.io/freebies/onoff/) (Self explanatory)
+   * [UIkit](https://getuikit.com/) (Framework)
+   * [Bootsrap](http://getbootstrap.com/) (Framework)
+   * [Zurb Foundation](https://foundation.zurb.com/) (Framework)
+   
+   
+   
+   
    
 ## Javascript
  ### Libraries:
