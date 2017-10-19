@@ -1,8 +1,7 @@
 # Nick's Library Of Web Development Resources
 
-
-##CSS:
-  ###Main Websites For Research:
-    https://css-tricks.com/
-    https://codepen.io/
+## CSS:
+  ### Main Websites For Research:
+   [CSS Tricks](https://css-tricks.com/)
+   [CodePen](https://codepen.io/)
     
