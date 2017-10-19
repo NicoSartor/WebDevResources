@@ -3,7 +3,7 @@
 ## Miscellaneous Exploration:
   * [Blocks](https://bl.ocks.org/)
   * [Smashing Magazine](https://www.smashingmagazine.com)
-  * [Three.js (3D Javascript)](https://threejs.org/)
+  *
   
 
 ## CSS:
@@ -17,6 +17,29 @@
   ### Miscellaneous CSS:
    * [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
    
+## Javascript
+ ### Libraries:
+  * [ParticlesJS](http://vincentgarreau.com/particles.js/) (Particles for Javascript)
+  * [Three.js](https://threejs.org/) (3D objects in Javascript)
+  * [fullPage.js](https://alvarotrigo.com/fullPage/#firstPage) (Snap scrolling ferature/Horizontal sliders, great for mobile web)
+  * [Typed.js](http://www.mattboldt.com/demos/typed-js/) (Type animation)
+  * [Waypoints.js](http://imakewebthings.com/waypoints/) (Trigger functions when scrolling to an element)
+  * [Chart.js](http://www.chartjs.org/) (Create beautiful charts with javascript and animate them)
+  * [InstaClick](http://instantclick.io/) (Increases website performance by pre-loading resources on mouse hover)
+  * [Chartist](http://gionkunz.github.io/chartist-js/index.html) (Like Chart.js but different!)
+  * [MOTIO](http://darsa.in/motio/#!introduction) (A library for sprite animations and planning)
+  * [ANIMSITION](http://git.blivesta.com/animsition/) (Animate CSS Page Transitions)
+  * [Barba.js](https://github.com/luruke/barba.js) (Fluid page transitions)
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  
+  
+
+
 ## Interesting Projects
   * [Particle Love by Edan Kwan](http://particle-love.com/)
 
