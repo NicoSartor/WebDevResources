@@ -11,6 +11,12 @@
    * [CSS Tricks](https://css-tricks.com/)
    * [CodePen](https://codepen.io/)
    
+  ### Youtube Channels:
+   * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+   
+  ### Miscellaneous CSS:
+   * [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+   
 ## Interesting Projects
   * [Particle Love by Edan Kwan](http://particle-love.com/)
 
