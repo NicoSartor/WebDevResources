@@ -128,7 +128,8 @@
   * [Touch Pianist](http://touchpianist.com/)
   * [Stars](https://experiments.withgoogle.com/chrome/100000-stars) (Click on launch experiment)
   * [Map In Seconds](http://mapinseconds.com/)
-  
+  * [Resurrecting a Dragon](https://www.nationalgeographic.com/magazine/2017/06/nodosaur-3d-interactive-dinosaur-fossil/)
+  * [Firewatch](http://www.firewatchgame.com/)
    
 
     
