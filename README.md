@@ -1,6 +1,6 @@
 # Nick's Library Of Web Development Resources
 
-## General Exploration:
+## Miscellaneous Exploration:
   * [Blocks](https://bl.ocks.org/)
   * [Smashing Magazine](https://www.smashingmagazine.com)
   * [Three.js (3D Javascript)](https://threejs.org/)
