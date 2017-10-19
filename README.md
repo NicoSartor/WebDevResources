@@ -6,6 +6,7 @@
   * [Hackernoon](https://hackernoon.com/)
   * [jQuery By Example](http://www.jquerybyexample.net/)
   * [tutorialzine](https://tutorialzine.com/)
+  * [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
   
 ## Misc:
  * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
