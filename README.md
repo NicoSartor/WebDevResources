@@ -5,6 +5,7 @@
   * [Smashing Magazine](https://www.smashingmagazine.com)
   * [Hackernoon](https://hackernoon.com/)
   * [jQuery By Example](http://www.jquerybyexample.net/)
+  * [tutorialzine](https://tutorialzine.com/)
   
 ## Misc:
  * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
@@ -97,7 +98,16 @@
   * [iziToast](http://izitoast.marcelodolce.com/) (Create elegant notifications)
   * [iziModal](http://izimodal.marcelodolce.com/) (Create elegant popups)
   * [p5.js](https://p5js.org/) (Drawing library)
+  * [plotly](https://plot.ly/) (Plot charts, used by Google)
+  * [D3js](https://d3js.org/) (Manipulate documents based on data)
+  * [Moment.js](https://momentjs.com/) (Easily format date and time data)
+  * [GSAP](https://greensock.com/gsap) (Animation library cross browser compatible and high performance)
+  * [date-fns](https://github.com/date-fns/date-fns) (Easily manipulate time and dates with a modular api)
+  * [math.js](http://mathjs.org/) (A library for all your matheMAGICAL needs)
+  * [Handsontable](https://handsontable.com/examples.html?manual-resize&manual-move&conditional-formatting&context-menu&filters&dropdown-menu&headers) (Javascript spreadsheet to format and manipulate your data)
   
+  
+## APIs
 
 ## Interesting Projects
   * [Particle Love by Edan Kwan](http://particle-love.com/)
