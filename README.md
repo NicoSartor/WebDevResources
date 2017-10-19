@@ -1,4 +1,4 @@
-# Nick's Library Of Web Development Resources
+# Library Of Web Development Resources (Colaborate!)
 
 ## Miscellaneous Exploration:
   * [Blocks](https://bl.ocks.org/)
