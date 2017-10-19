@@ -1,9 +1,9 @@
 # Library Of Web Development Resources (Colaborate!)
 
-## Miscellaneous Exploration:
+## Explore:
   * [Blocks](https://bl.ocks.org/)
   * [Smashing Magazine](https://www.smashingmagazine.com)
-  *
+  * [Hackernoon](https://hackernoon.com/)
   
 
 ## CSS:
@@ -14,8 +14,11 @@
   ### Youtube Channels:
    * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
    
-  ### Miscellaneous CSS:
-   * [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
+  ### Miscellaneous CSS Resources:
+   * [Article: High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) 
+   
+  ### Libraries:
+   * []()
    
 ## Javascript
  ### Libraries:
@@ -42,17 +45,26 @@
   * [Parallax](https://github.com/wagerfield/parallax) (Beautiful parallax effect)
   * [typehead.js](http://twitter.github.io/typeahead.js/) (Search completion)
   * [Dragdealer.js](http://skidding.github.io/dragdealer/) (Create draggable inputs with many applications)
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
-  * []()
+  * [Bounce.js](http://bouncejs.com/) (Create incredible and interactive CSS animations, some mimics physics)
+  * [pagePiling.js](https://github.com/alvarotrigo/pagePiling.js) (Similar to fullPage.js but with a layered approach)
+  * [multiScroll.js](https://github.com/alvarotrigo/multiscroll.js) (Divided multi scrolling effect)
+  * [favico.js](http://lab.ejci.net/favico.js/) (Dynamic favicons)
+  * [Midnight.js](http://aerolab.github.io/midnight.js/) (Switch fixed header on the go)
+  * [ANIME](http://animejs.com/) (Amazing animations library)
+  * [Sortable](http://rubaxa.github.io/Sortable/) (Drag and drop elements)
+  * [flexdatalist](http://projects.sergiodinislopes.pt/flexdatalist/) (Autocomplete)
+  * [slideout.js](https://slideout.js.org/) (Touch slide out for mobile navigation)
+  * [jquerymy.js](http://jquerymy.com/#/) (Real time two-way data binding)
+  * [Cleave.js](http://nosir.github.io/cleave.js/) (Format input content for user convenience)
+  * [selectize.js](http://selectize.github.io/selectize.js/) (Tag and select data)
+  * [jQuery Nice Select](http://hernansartorio.com/jquery-nice-select/) (Replace native select element with a customizable dropdown)
+  * [Tether](http://tether.io/) (Anchor absolute positioned elements to other elements)
+  * [Shepherd](https://github.com/HubSpot/shepherd) (Guide users through your app with tooltips)
+  * [Tooltip](https://github.com/HubSpot/tooltip) (Another tooltip library)
+  * [Select2](https://select2.org/) (Another customizable select box library)
+  * [iziToast](http://izitoast.marcelodolce.com/) (Create elegant notifications)
+  * [iziModal](http://izimodal.marcelodolce.com/) (Create elegant popups)
   
-  
-
 
 ## Interesting Projects
   * [Particle Love by Edan Kwan](http://particle-love.com/)
