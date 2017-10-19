@@ -102,11 +102,22 @@
   * [date-fns](https://github.com/date-fns/date-fns) (Easily manipulate time and dates with a modular api)
   * [math.js](http://mathjs.org/) (A library for all your matheMAGICAL needs)
   * [Handsontable](https://handsontable.com/examples.html?manual-resize&manual-move&conditional-formatting&context-menu&filters&dropdown-menu&headers) (Javascript spreadsheet to format and manipulate your data)
+  * [WebGL Earth](http://www.webglearth.org/) (3D earth object)
   
   
-## APIs
-
-## Interesting Projects
+## APIs:
+ ### Cool APIs:
+  * [BigML](https://bigml.com/) (Accessible machine learning API)
+  * [LaunchLibrary](https://launchlibrary.net/) (Find and explore future space missions)
+  
+ ### Discover New APIs:
+  * [ToddMotto Public APIs List](https://github.com/toddmotto/public-apis)
+  * [abhishekbanthia Public APIs List](https://github.com/abhishekbanthia/Public-APIs)
+  * [Any API](https://any-api.com/)
+  * [Programmable Web](https://www.programmableweb.com/apis/directory)
+  * [Google API Explorer](https://developers.google.com/apis-explorer/#p/)
+  
+## Interesting Projects:
   * [Particle Love by Edan Kwan](http://particle-love.com/)
   * [I Remember](http://i-remember.fr/en/)
   * [Images of Change](https://climate.nasa.gov/images-of-change) (They used TwentyTwenty js library) 
