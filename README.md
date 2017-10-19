@@ -4,6 +4,8 @@
   * [Blocks](https://bl.ocks.org/)
   * [Smashing Magazine](https://www.smashingmagazine.com)
   * [Hackernoon](https://hackernoon.com/)
+  * [jQuery By Example](http://www.jquerybyexample.net/)
+
   
 
 ## CSS:
