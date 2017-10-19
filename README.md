@@ -2,6 +2,6 @@
 
 ## CSS:
   ### Main Websites For Research:
-   -[CSS Tricks](https://css-tricks.com/)
-   -[CodePen](https://codepen.io/)
+   * [CSS Tricks](https://css-tricks.com/)
+   * [CodePen](https://codepen.io/)
     
