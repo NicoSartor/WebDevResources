@@ -9,14 +9,14 @@
   * [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
   
 ## Project Management:
- * [dapulse](https://dapulse.com/)
- * [trello](https://trello.com/)
- * [coggle](https://coggle.it/?lang=en-US)
- * [GoConqr](https://www.goconqr.com/en/mind-maps/)
+  * [dapulse](https://dapulse.com/)
+  * [trello](https://trello.com/)
+  * [coggle](https://coggle.it/?lang=en-US)
+  * [GoConqr](https://www.goconqr.com/en/mind-maps/)
   
 ## Misc:
- * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
- * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) (Chrome extension that makes JSON files readable)
+  * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
+  * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) (Chrome extension that makes JSON files readable)
  
 ## CSS:
   ### CSS Snippets:
@@ -39,8 +39,7 @@
   * [Web Creme](http://www.webcreme.com/)
   
    
-  ### Youtube Channels:
-   * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+
    
   ### CSS Design Resources:
    * [Article: High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) 
@@ -156,4 +155,15 @@
   * [Jam3](http://www.jam3.com/)
    
 
-    
+ ## Youtube Channels:
+   * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
+   * [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts/videos)
+   * [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+   * [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg/videos)
+   * [Tech Talks](https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ)
+   
+ ## Podcasts:
+  * [Front End Happy Hour](http://frontendhappyhour.com/)
+  * [JavaScript Jabber](https://devchat.tv/js-jabber)
+ 
+   
