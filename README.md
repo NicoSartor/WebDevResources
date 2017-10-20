@@ -221,4 +221,5 @@
  
  ## Repos:
  * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+ * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
    
