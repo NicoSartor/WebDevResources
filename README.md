@@ -83,6 +83,9 @@
    * [epicantus](http://epicantus.tumblr.com/)
    * [Shot Stash](https://shotstash.com/)
    * [Styled Stock](https://styledstock.co/)
+   
+   #### Free Sprites:
+   * [itch.io](https://itch.io/game-assets/free)
     
    
   ### CSS Design Resources:
