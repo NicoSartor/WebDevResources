@@ -177,6 +177,7 @@
   * [math.js](http://mathjs.org/) (A library for all your matheMAGICAL needs)
   * [Handsontable](https://handsontable.com/examples.html?manual-resize&manual-move&conditional-formatting&context-menu&filters&dropdown-menu&headers) (Javascript spreadsheet to format and manipulate your data)
   * [WebGL Earth](http://www.webglearth.org/) (3D earth object)
+  * [accessibilityJS](https://github.com/github/accessibilityjs) (Discover client-side accessibility errors and fix them)
   
   
 ## APIs:
@@ -220,6 +221,11 @@
   * [JavaScript Jabber](https://devchat.tv/js-jabber)
  
  ## Repos:
+ 
+ ### FYI Repos
  * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
  * [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist)
-   
+ * [modern-js-cheatsheet](https://github.com/mbeaudru/modern-js-cheatsheet)
+ * [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know)
+ * [cosmos: every data structure and algorithm a programmer should know](https://github.com/OpenGenus/cosmos)
+ 
