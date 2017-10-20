@@ -7,6 +7,12 @@
   * [jQuery By Example](http://www.jquerybyexample.net/)
   * [tutorialzine](https://tutorialzine.com/)
   * [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
+  * [WebPageFX](https://www.webpagefx.com/blog/web-design/)
+  * [SpeckyBoy](https://speckyboy.com/)
+  * [DWB](https://davidwalsh.name/)
+  * [One Extra Pixel](https://onextrapixel.com/)
+  * [Scoth.io](https://scotch.io/)
+  
   
 ## Project Management:
   * [dapulse](https://dapulse.com/)
@@ -25,21 +31,58 @@
    * [LittleSnippets](http://littlesnippets.net/)
    * [snipplr](http://snipplr.com/) (CSS, HTML and JS snippets)
    * [CSS Flow](http://www.cssflow.com/snippets)
+   * [Parallax Scrolling Snippets](https://speckyboy.com/10-css-javascript-parallax-scrolling-code-snippets/)
    
    
   ### Design Inspiration:
-  * [WebDesign Inspiration](http://www.webdesign-inspiration.com/)
-  * [Awwwards](https://www.awwwards.com/websites/clean/)
-  * [CodeMyUI](https://codemyui.com/)
-  * [Dribbble](https://dribbble.com/)
-  * [Site Inspire](https://www.siteinspire.com/)
-  * [The FWA](https://thefwa.com/awards/page/1/)
-  * [Style Boost](http://styleboost.com/)
-  * [One Page Love](https://onepagelove.com/)
-  * [Web Creme](http://www.webcreme.com/)
+   * [WebDesign Inspiration](http://www.webdesign-inspiration.com/)
+   * [Awwwards](https://www.awwwards.com/websites/clean/)
+   * [CodeMyUI](https://codemyui.com/)
+   * [Dribbble](https://dribbble.com/)
+   * [Site Inspire](https://www.siteinspire.com/)
+   * [The FWA](https://thefwa.com/awards/page/1/)
+   * [Style Boost](http://styleboost.com/)
+   * [One Page Love](https://onepagelove.com/)
+   * [Web Creme](http://www.webcreme.com/)
   
    
-
+  ### Free Assets:
+   #### Free Vectors:
+    * [stockio](https://www.stockio.com/)
+    * [Free Vector](https://www.freevector.com/)
+    * [Free Vectors](http://www.freevectors.net/)
+    * [Vector Portal](https://www.vectorportal.com/)
+    * [Vecteezy](https://www.vecteezy.com/)
+    * [dryicons](http://dryicons.com/)
+    * [VEXELS](https://www.vexels.com/)
+    * [FlatIcon](https://www.flaticon.com/)
+    * [freepik](http://www.freepik.com/)
+    * [VectorStock](https://www.vectorstock.com/free-vectors)
+    
+   #### Free Images:
+    * [StockSnap.io](https://stocksnap.io/)
+    * [Unsplash](https://unsplash.com/)
+    * [BURST](https://burst.shopify.com/)
+    * [Foodiesfeed](https://www.foodiesfeed.com/)
+    * [GRATISOGRAPHY](https://www.gratisography.com/)
+    * [Negative Space](https://negativespace.co/)
+    * [freestocks](https://freestocks.org/)
+    * [picography](https://picography.co/)
+    * [MMT](https://mmtstock.com/)
+    * [Skitterphoto](https://skitterphoto.com/)
+    * [LifeOfPix](http://www.lifeofpix.com/)
+    * [Little Visuals](http://littlevisuals.co/)
+    * [Death To Stock](https://deathtothestockphoto.com/)
+    * [picjumbo](https://picjumbo.com/)
+    * [IM FREE](http://imcreator.com/free) (Templates and icons too)
+    * [New Old Stock](http://nos.twnsnd.co/)
+    * [pixabay](https://pixabay.com/)
+    * [jay mantri](http://jaymantri.com/)
+    * [kaboompics](https://kaboompics.com/)
+    * [epicantus](http://epicantus.tumblr.com/)
+    * [Shot Stash](https://shotstash.com/)
+    * [Styled Stock](https://styledstock.co/)
+    
    
   ### CSS Design Resources:
    * [Article: High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/) 
