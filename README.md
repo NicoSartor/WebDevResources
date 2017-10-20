@@ -84,8 +84,14 @@
    * [Shot Stash](https://shotstash.com/)
    * [Styled Stock](https://styledstock.co/)
    
-   #### Free Sprites:
+   #### Other Free Assets:
    * [itch.io](https://itch.io/game-assets/free)
+   * [Kenney](http://kenney.nl/)
+   * [Glitch The Game](http://www.glitchthegame.com/public-domain-game-art/)
+   * [Reiner's Tilesets](http://www.reinerstilesets.de/)
+   * [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+   * [openclipart](https://openclipart.org/)
+   
     
    
   ### CSS Design Resources:
