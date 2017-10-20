@@ -8,6 +8,9 @@
   * [tutorialzine](https://tutorialzine.com/)
   * [r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
   
+## Project Management:
+ * [dapulse](https://dapulse.com/)
+  
 ## Misc:
  * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
  * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) (Chrome extension that makes JSON files readable)
