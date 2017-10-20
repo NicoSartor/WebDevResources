@@ -49,10 +49,10 @@
   ### Free Assets:
   
    #### Free Vectors:
-    * [stockio](https://www.stockio.com/)
-    * [Free Vector](https://www.freevector.com/)
-    * [Free Vectors](http://www.freevectors.net/)
-    * [Vector Portal](https://www.vectorportal.com/)
+    * [stockio](https://www.stockio.com/).
+    * [Free Vector](https://www.freevector.com/).
+    * [Free Vectors](http://www.freevectors.net/).
+    * [Vector Portal](https://www.vectorportal.com/).
     * [Vecteezy](https://www.vecteezy.com/)
     * [dryicons](http://dryicons.com/)
     * [VEXELS](https://www.vexels.com/)
