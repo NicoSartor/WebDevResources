@@ -10,6 +10,8 @@
   
 ## Project Management:
  * [dapulse](https://dapulse.com/)
+ * [trello](https://trello.com/)
+ * [coggle](https://coggle.it/?lang=en-US)
   
 ## Misc:
  * [whatruns](https://www.whatruns.com/) (Chrome extension to check browser compatibility of your webapps)
