@@ -185,6 +185,9 @@
   ### Performance Tricks:
   * [Refreshless Slider](https://refreshless.com/nouislider/)
   
+  ### Stay Updated:
+  * [ES2015+ Cheatsheet](https://devhints.io/es6)
+  
 ## APIs:
  ### Cool APIs:
   * [BigML](https://bigml.com/) (Accessible machine learning API)
