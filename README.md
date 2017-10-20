@@ -47,6 +47,7 @@
   
    
   ### Free Assets:
+  
    #### Free Vectors:
     * [stockio](https://www.stockio.com/)
     * [Free Vector](https://www.freevector.com/)
@@ -58,7 +59,7 @@
     * [FlatIcon](https://www.flaticon.com/)
     * [freepik](http://www.freepik.com/)
     * [VectorStock](https://www.vectorstock.com/free-vectors)
-    
+   
    #### Free Images:
     * [StockSnap.io](https://stocksnap.io/)
     * [Unsplash](https://unsplash.com/)
