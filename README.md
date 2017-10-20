@@ -182,6 +182,8 @@
   * [WebGL Earth](http://www.webglearth.org/) (3D earth object)
   * [accessibilityJS](https://github.com/github/accessibilityjs) (Discover client-side accessibility errors and fix them)
   
+  ### Performance Tricks:
+  * [Refreshless Slider](https://refreshless.com/nouislider/)
   
 ## APIs:
  ### Cool APIs:
