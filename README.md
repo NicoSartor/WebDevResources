@@ -103,6 +103,7 @@
    * [SectionSeparators](https://tympanus.net/Development/SectionSeparators/) (Inspiration for CSS section dividers)
    * [Ken Burns Effect](https://www.kirupa.com/html5/ken_burns_effect_css.htm) (Pan and zoom into static image)
    * [Gradient World](https://gradient.world/) (CSS gradients from photographs)
+   * [Convert px Values to % Values](http://rqrwd.com/)
    
   ### Libraries/Frameworks:
    * [Animate.css](https://daneden.github.io/animate.css/) (Add animations with ease)
