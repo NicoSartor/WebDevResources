@@ -219,4 +219,6 @@
   * [Front End Happy Hour](http://frontendhappyhour.com/)
   * [JavaScript Jabber](https://devchat.tv/js-jabber)
  
+ ## Repos:
+ * [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
    
