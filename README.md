@@ -16,9 +16,25 @@
  * [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) (Chrome extension that makes JSON files readable)
  
 ## CSS:
-  ### Main Websites For Research:
-   * [CSS Tricks](https://css-tricks.com/)
+  ### CSS Snippets:
+   * [CSS-Tricks Snipets](https://css-tricks.com/snippets/)
    * [CodePen](https://codepen.io/)
+   * [LittleSnippets](http://littlesnippets.net/)
+   * [snipplr](http://snipplr.com/) (CSS, HTML and JS snippets)
+   * [CSS Flow](http://www.cssflow.com/snippets)
+   
+   
+  ### Design Inspiration:
+  * [WebDesign Inspiration](http://www.webdesign-inspiration.com/)
+  * [Awwwards](https://www.awwwards.com/websites/clean/)
+  * [CodeMyUI](https://codemyui.com/)
+  * [Dribbble](https://dribbble.com/)
+  * [Site Inspire](https://www.siteinspire.com/)
+  * [The FWA](https://thefwa.com/awards/page/1/)
+  * [Style Boost](http://styleboost.com/)
+  * [One Page Love](https://onepagelove.com/)
+  * [Web Creme](http://www.webcreme.com/)
+  
    
   ### Youtube Channels:
    * [DevTips](https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ)
@@ -134,6 +150,7 @@
   * [Resurrecting a Dragon](https://www.nationalgeographic.com/magazine/2017/06/nodosaur-3d-interactive-dinosaur-fossil/)
   * [Firewatch](http://www.firewatchgame.com/)
   * [Activation Nodeplus](http://www.activation-nodeplus.com/)
+  * [Jam3](http://www.jam3.com/)
    
 
     
