@@ -184,6 +184,7 @@
   
   ### Performance Tricks:
   * [Refreshless Slider](https://refreshless.com/nouislider/)
+  * [JS Performance Tips](http://www.monitis.com/blog/30-tips-to-improve-javascript-performance/)
   
   ### Stay Updated:
   * [ES2015+ Cheatsheet](https://devhints.io/es6)
