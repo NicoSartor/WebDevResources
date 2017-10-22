@@ -1,7 +1,8 @@
 # Library Of Web Development Resources
 
 ## Code Challenges:
-* [CodeAcademy](https://discuss.codecademy.com/t/essential-information-on-code-challenges/83909)
+* [Challenges Info](https://discuss.codecademy.com/t/essential-information-on-code-challenges/83909)
+* [Challenges in Interviews](https://discuss.codecademy.com/t/code-challenges-in-interviews/82161)
 
 ## Explore:
   * [Blocks](https://bl.ocks.org/)
