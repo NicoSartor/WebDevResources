@@ -206,6 +206,8 @@
   * [Google API Explorer](https://developers.google.com/apis-explorer/#p/)
   
 ## Interesting Projects:
+  * [Chrome Experiments](https://experiments.withgoogle.com/chrome?tag=Particles) (particles Projects)
+  * [Fluid Particles](http://david.li/fluid/)
   * [Particle Love by Edan Kwan](http://particle-love.com/)
   * [I Remember](http://i-remember.fr/en/)
   * [Images of Change](https://climate.nasa.gov/images-of-change) (They used TwentyTwenty js library) 
