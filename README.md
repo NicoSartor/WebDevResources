@@ -19,6 +19,7 @@
   * [StackOverflow](https://stackoverflow.com/)
   
   
+  
 ## Project Management:
   * [dapulse](https://dapulse.com/)
   * [trello](https://trello.com/)
@@ -222,6 +223,7 @@
   * [Firewatch](http://www.firewatchgame.com/)
   * [Activation Nodeplus](http://www.activation-nodeplus.com/)
   * [Jam3](http://www.jam3.com/)
+  * [Processing.org](https://processing.org/examples/smokeparticlesystem.html) (They have more examples)
    
 
  ## Youtube Channels:
