@@ -246,3 +246,8 @@
  * [every-programmer-should-know](https://github.com/mr-mig/every-programmer-should-know)
  * [cosmos: every data structure and algorithm a programmer should know](https://github.com/OpenGenus/cosmos)
  
+ # Backend:
+ ## Libraries:
+ 
+ * [Socket IO](https://socket.io/) (live update changes, good for intant refreshless chat apps)
+ 
