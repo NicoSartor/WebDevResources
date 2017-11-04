@@ -37,6 +37,7 @@
   * [Jam3](http://www.jam3.com/)
   * [Processing.org](https://processing.org/examples/smokeparticlesystem.html) (They have more examples)
   * [ThreeJS Scene](http://alteredqualia.com/three/examples/webgl_terrain_dynamic.html)
+  * [Christopher Portfolio (from Chris Courses Channel)](https://christopherlis.com/#/)
   
   
   
