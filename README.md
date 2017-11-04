@@ -18,6 +18,26 @@
   * [Scoth.io](https://scotch.io/)
   * [StackOverflow](https://stackoverflow.com/)
   
+ ## Interesting Projects:
+  * [Chrome Experiments](https://experiments.withgoogle.com/chrome?tag=Particles) (particles Projects)
+  * [Fluid Particles](http://david.li/fluid/)
+  * [Particle Love by Edan Kwan](http://particle-love.com/)
+  * [I Remember](http://i-remember.fr/en/)
+  * [Images of Change](https://climate.nasa.gov/images-of-change) (They used TwentyTwenty js library) 
+  * [Windy](https://www.windy.com/?34.269,-118.329,5) (Check wind and weather patterns)
+  * [Street Change](http://streetchange.media.mit.edu/)
+  * [KeyBright](http://www.keybright.net/)
+  * [QuickDrawWithGoogle](https://quickdraw.withgoogle.com/)
+  * [Touch Pianist](http://touchpianist.com/)
+  * [Stars](https://experiments.withgoogle.com/chrome/100000-stars) (Click on launch experiment)
+  * [Map In Seconds](http://mapinseconds.com/)
+  * [Resurrecting a Dragon](https://www.nationalgeographic.com/magazine/2017/06/nodosaur-3d-interactive-dinosaur-fossil/)
+  * [Firewatch](http://www.firewatchgame.com/)
+  * [Activation Nodeplus](http://www.activation-nodeplus.com/)
+  * [Jam3](http://www.jam3.com/)
+  * [Processing.org](https://processing.org/examples/smokeparticlesystem.html) (They have more examples)
+  * [ThreeJS Scene](http://alteredqualia.com/three/examples/webgl_terrain_dynamic.html)
+  
   
   
 ## Project Management:
@@ -206,25 +226,7 @@
   * [Programmable Web](https://www.programmableweb.com/apis/directory)
   * [Google API Explorer](https://developers.google.com/apis-explorer/#p/)
   
-## Interesting Projects:
-  * [Chrome Experiments](https://experiments.withgoogle.com/chrome?tag=Particles) (particles Projects)
-  * [Fluid Particles](http://david.li/fluid/)
-  * [Particle Love by Edan Kwan](http://particle-love.com/)
-  * [I Remember](http://i-remember.fr/en/)
-  * [Images of Change](https://climate.nasa.gov/images-of-change) (They used TwentyTwenty js library) 
-  * [Windy](https://www.windy.com/?34.269,-118.329,5) (Check wind and weather patterns)
-  * [Street Change](http://streetchange.media.mit.edu/)
-  * [KeyBright](http://www.keybright.net/)
-  * [QuickDrawWithGoogle](https://quickdraw.withgoogle.com/)
-  * [Touch Pianist](http://touchpianist.com/)
-  * [Stars](https://experiments.withgoogle.com/chrome/100000-stars) (Click on launch experiment)
-  * [Map In Seconds](http://mapinseconds.com/)
-  * [Resurrecting a Dragon](https://www.nationalgeographic.com/magazine/2017/06/nodosaur-3d-interactive-dinosaur-fossil/)
-  * [Firewatch](http://www.firewatchgame.com/)
-  * [Activation Nodeplus](http://www.activation-nodeplus.com/)
-  * [Jam3](http://www.jam3.com/)
-  * [Processing.org](https://processing.org/examples/smokeparticlesystem.html) (They have more examples)
-  * [ThreeJS Scene](http://alteredqualia.com/three/examples/webgl_terrain_dynamic.html)
+
    
 
  ## Youtube Channels:
