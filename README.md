@@ -253,5 +253,5 @@
  # Backend:
  ## Libraries:
  
- * [Socket IO](https://socket.io/) (live update changes, good for intant refreshless chat apps)
+ * [Socket IO](https://socket.io/) (live update changes, good for instant refreshless responses)
  
