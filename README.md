@@ -217,6 +217,9 @@
   * [ES2015+ Cheatsheet](https://devhints.io/es6)
   
 ## APIs:
+
+ ### API Management:
+  * [APIGee](https://apigee.com/api-management/#/homepage)
  ### Cool APIs:
   * [BigML](https://bigml.com/) (Accessible machine learning API)
   * [LaunchLibrary](https://launchlibrary.net/) (Find and explore future space missions)
