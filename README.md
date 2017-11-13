@@ -17,6 +17,7 @@
   * [One Extra Pixel](https://onextrapixel.com/)
   * [Scoth.io](https://scotch.io/)
   * [StackOverflow](https://stackoverflow.com/)
+  * [Wes Bos Courses](http://wesbos.com/courses/)
   
  ## Interesting Projects:
   * [Chrome Experiments](https://experiments.withgoogle.com/chrome?tag=Particles) (particles Projects)
