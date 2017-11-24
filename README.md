@@ -41,6 +41,7 @@
   * [Christopher Portfolio (from Chris Courses Channel)](https://christopherlis.com/#/)
   * [Eye](http://vill.ee/eye/)
   * [Yoichi Kobayashi](http://ykob.github.io/sketch-threejs/)
+  * [ShaderToy Galaxy](https://www.shadertoy.com/view/lty3Rt)
   
   
   
