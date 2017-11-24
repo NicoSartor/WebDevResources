@@ -40,6 +40,7 @@
   * [ThreeJS Scene](http://alteredqualia.com/three/examples/webgl_terrain_dynamic.html)
   * [Christopher Portfolio (from Chris Courses Channel)](https://christopherlis.com/#/)
   * [Eye](http://vill.ee/eye/)
+  * [Yoichi Kobayashi](http://ykob.github.io/sketch-threejs/)
   
   
   
